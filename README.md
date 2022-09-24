@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lord-X1v3R
 - 👀 I’m interested in technology and ethic
 - 🌱 I’m currently learning coding and software developing
-- 💞️ I’m looking to collaborate on IT project
+- 💞️ I’m looking to collaborate on IT and security project
 - 📫 How to reach me using github !
 
 <!---
